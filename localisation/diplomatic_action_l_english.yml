@@ -1,0 +1,7 @@
+﻿l_english:
+ demand_dummy_title: "ÒªÇó³ÉÎª¿þÀÜ"
+ demand_dummy_desc: "ÒªÇó[From.GetName]µÄ[From.Monarch.GetName]³ÉÎªÎÒ¹ú¿þÀÜ¡£Õâ½«ÓÐÖúÓÚË«·½µÄ»¥ÏàÐÅÈÎ£¡"
+ demand_dummy_tooltip: "ÒªÇóËûÃÇ³ÉÎªÎÒ¹ú¿þÀÜ¡£"
+ demand_dummy_dialog: "[This.GetName]ÒªÇóÄã³ÉÎªËûÃÇµÄ¿þÀÜ¡£Õâ½«ÓÐÖúÓÚË«·½µÄ»¥ÏàÐÅÈÎ¡£"
+ demand_dummy_alert_tooltip: "ÒªÇóÎÒÃÇ³ÉÎªÆä¿þÀÜ¡£"
+ HAS_MORE_MANPOWER: "[This.GetName]±È[From.GetName]ÓÐ¸ü¶àÈËÁ¦¡£\n"
