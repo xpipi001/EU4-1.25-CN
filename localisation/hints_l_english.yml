@@ -64,7 +64,7 @@
  HINT_DIPSCORE_TITLE:0 "获得外交得分"
  HINT_DIPSCORE_TEXT:0 "外交技术发展、高贸易效率、商人、海军将领数量、庞大的舰队、海军士气、控制附庸、强大的盟友将提高你的外交得分."
  HINT_MILSCORE_TITLE:0 "获得军事得分"
- HINT_MILSCORE_TEXT:0 "军事技术发展、高陆军士气、陆军将领数量、高训练度、庞大的军团将提高你的军事得分."
+ HINT_MILSCORE_TEXT:0 "军事技术、陆军士气、陆军将领数量、训练度、陆军数量的提高将提高你的军事得分。"
  HINT_OUTLINER_TITLE:0 "快捷窗口"
  HINT_OUTLINER_TEXT:0 "大纲窗口是一个关于你的国家的信息列表。"
  HINT_WAROVERVIEW_TITLE:0 "战争概览"

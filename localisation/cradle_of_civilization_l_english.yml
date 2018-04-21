@@ -852,5 +852,5 @@
  DECLINED_HOTJOINERS:0 "以下要求将会被拒绝:"
  MODIFIER_DRILL_DECAY_MODIFIER:0 "陆军操练衰减修正"
  RELIGION_VIEW_NO_SCHOOL_TOOLTIP:0 "我们现在不支持任何学派"
- PASHA_WRONG_GOVERNMENT:0 "\n§ROnly nations with §!§YOttoman Government§!§R can Assign Pasha.§!"
- PASHA_CORRECT_GOVERNMENT:0 "With §YOttoman Government§! we are capable of giving out positions of Pashas in States.\n"
+ PASHA_WRONG_GOVERNMENT:0 "\n§R 唯有拥有 §!§Y奥斯曼政府§!§R 的国家可以指定帕沙.§!"
+ PASHA_CORRECT_GOVERNMENT:0 "拥有 §Y奥斯曼政府§! 使得我们可以给地区指定帕沙.\n"

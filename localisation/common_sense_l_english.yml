@@ -758,7 +758,7 @@
  lose_army_tradition:0 "授予陆军委员"
  lose_ia:0 "限制帝国议会"
  lose_prestige:0 "站在国会一方"
- pay_papal_influence:0 "给教廷送去使团"
+ pay_papal_influence:0 "给圣座送去使团"
  lose_mercantilism:0 "促进人才选拔"
  RANK:0 "政府等级"
  GOVERNMENT_EFFECTS_DUE_TO_RANK:0 "由于§Y$RANK$ 政体§!，此§Y政体§!会带来以下影响：\n"
