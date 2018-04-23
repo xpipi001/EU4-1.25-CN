@@ -12,7 +12,7 @@
  TRADEMAP_INCOMING_EXP:0 "从前一节点获得的贸易竞争力"
  TRADEMAP_OUTGOING_EXP:0 "流向下游节点的贸易竞争力"
  TRADEMAP_LOCAL_EXP:0 "省份贸易额属于其贸易节点"
- TRADEMAP_TOTAL_EXP:0 "贸易节点本地及输入的全部贸易竞争力"
+ TRADEMAP_TOTAL_EXP:0 "贸易节点本地及输入的全部贸易额。"
  TRADEMAP_INLAND_TITLE:0 "内陆贸易节点"
  TRADEMAP_INLAND_DESC:0 "派遣一个常驻商人在此内陆贸易节点内牟利，或导向另一个内陆贸易节点，将在这个节点基于你的贸易效率给你额外的贸易竞争力"
  TRADEMAP_WE_COLLECT:0 "我们获取的$VAL|Y2$¤"
