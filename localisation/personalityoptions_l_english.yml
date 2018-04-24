@@ -487,7 +487,7 @@
  leader_death_reason_navy_idle:0 "[GetSheHeCap]在海上染疾而终。"
  leader_death_reason_land_idle:0 "[GetSheHeCap]死在了$PROVINCE$的军队行营中。"
  leader_death_reason_event_default:0 "[GetSheHeCap]在$PROVINCE$神秘死亡。"
- leader_death_reason_drilling:1 "死于军演行动的事故\ 军演停止"
+ leader_death_reason_drilling:1 "[GetSheHeCap]死于军演行动的事故。\n军演停止。"
  just_personality_die_desc:0 "整个王国都会怀念[Root.Monarch.GetHerHis]公正与公平。"
  righteous_personality_die_desc:0 "我们的人民会终生哀悼高尚的[Root.Monarch.GetTitle]的离去。"
  kind_hearted_personality_die_desc:0 "我们的人民会记住[Root.Monarch.GetHerHim]这位热心而有爱的统治者。"
