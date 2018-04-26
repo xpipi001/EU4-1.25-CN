@@ -184,7 +184,7 @@
  propagate_religion_desc:0 "你虔诚的商人将会在这个节点传播唯一的正确信仰。"
  TRADING_POLICY_EFFECT:0 "$NAME|Y$ 贸易政策:\n$MOD$"
  PROVINCES_IN_NODE:0 "§Y在这个节点的所有国家:§!\n"
- CANCEL_DRILLING_MOVE_CONFIRM_TITLE:0 ""取消军队操练"
+ CANCEL_DRILLING_MOVE_CONFIRM_TITLE:0 "取消军队操练"
  CANCEL_DRILLING_MOVE_CONFIRM_DESC:1 "你确定要移动 $ARMY|Y$ 并取消操练吗？"
  CANCEL_DRILLING_LOAD_CONFIRM_TITLE:0 "取消军队操练"
  CANCEL_DRILLING_LOAD_CONFIRM_DESC:1 "你确定要移除 $NAVY|Y$ 然后取消与之相连的军队的操练活动吗？"
