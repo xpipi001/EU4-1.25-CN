@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 CONVREL_STAB_NO_NEGATIVE:0 "你需要至少 §G0§! 稳定度来转化你的宗教"
 PAPAL_OPINION_OF_US:0 "修正位 $VAL$，根据教皇国对我们的看法"
 LOSE_CLAIMS_ON:0 "§Y$WHO$§! 将失去§R$PROVS$§!的宣称"
