@@ -127,7 +127,7 @@
  dutch_republic.27.d:0 "我们国家的一部分边境居民正在怀抱着荣耀与征服的野心远眺边境。其他人则怀抱恐惧。与一个会威胁我们国家主权的国家接壤使得一些具有影响力的士绅在共和国议事中支持集权者，希望避免寻求扩张 [Root.GetAdjective]边界并与我们强大的邻居发生不必要冲突的奥兰治亲王当权。"
  dutch_republic.27.a:0 "在他们的支持下，我们的未来将会是永久的和平。"
  dutch_republic.27.b:0 "不必理会这些草民的看法！"
- dutch_republic.28.t:0 " [Root.GetName]的野望"
+ dutch_republic.28.t:0 "[Root.GetName]的野望"
  dutch_republic.28.d:0 " [Root.GetName]的贵族并不因为在边界省份而担心。相反，他们相信我们的邻国才应当担心，因为我们认为他们的土地如果在 [Root.GetName]统治下或者成为共和国的领土会更好。国境上的人们看起来将要见证这一刻的到来，因为他们显示出了对于 [Root.Owner.GetName]力量的恐惧，尤其是一位野心勃勃的奥兰治亲王在执政。"
  dutch_republic.28.a:0 "他们会有恐惧我们的理由。"
  dutch_republic.28.b:0 "我们的国家如果以其他方式统治，其他人统治，一样会这么强大。"

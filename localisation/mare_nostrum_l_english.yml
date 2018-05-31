@@ -438,7 +438,7 @@
  alert_condottieri_participation:0 "@$TAG$ $COUNTRY$ - $MONTHS|Y$个月"
  alert_condottieri_low_participation_instant:0 "§Y雇佣你的军队的客户很失望！§!"
  alert_condottieri_low_participation_delayed:0 "一个为你的军队支付钱财的国家希望他们能够充分参与围城及作战，如果我们不这么做的话，他们的耐心只能持续到："
- SPY_OFFENCE_DESC_RIVAL:0 "死敌: $VAL|%2+=$"
+ SPY_OFFENCE_DESC_RIVAL:0 "宿敌：$VAL|%2+=$"
  SPY_OFFENCE_DESC_DISTANCE:1 "距离乘数: x$VAL|Y$"
  SPY_OFFENCE_BASE:0 "基础速度: $VAL|Y$"
  EST_IS_TERRITORIAL_CORE:0 "该省份是自治领地核心"

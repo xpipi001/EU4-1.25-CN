@@ -80,7 +80,7 @@
  russian_principality_events.4.a:0 "土地是真正的财富。"
  russian_principality_events.4.b:0 "我们需要黄金来填满王室金库。"
  russian_principality_events.4.c:0 "我们要以此增强在国家事务中的影响力。"
- russian_principality_events.5.t:0 "$YEAR$年的饥荒"
+ russian_principality_events.5.t:0 "$YEAR$年饥荒"
  russian_principality_events.5.d:0 "疾病和天灾接踵而至，彻底破坏了[Root.GetAdjective]部分领土的收成。这个时候，许多人向国家或教会寻求支持，还有些人离开他们的土地，或寻求势力强大的波雅尔及修道院的保护，甚至有人加入野外的哥萨克人。"
  russian_principality_events.5.a:0 "我们会把这交给波雅尔解决。"
  russian_principality_events.5.b:0 "我们会让教会处理这件事。"
